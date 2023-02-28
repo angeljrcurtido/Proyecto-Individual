@@ -1,0 +1,83 @@
+.prueba {
+    display: flex;
+}
+
+.input1 {
+    margin-left: 10px;
+    margin-right: 5px;
+}
+.confirmacion {
+    border: 1px solid black;
+    margin-left: 2px;
+    margin-right: 2px;
+    margin-top: 2px;
+    text-align: left;
+    display: flex;
+    flex-direction: row;
+}
+
+.pizzatop {
+    margin-bottom: 11px;
+}
+
+.tuorden {
+    margin-left: 51px;
+    margin-top: 3%;
+}
+
+a.btn.btn-success {
+    margin-right: 3%;
+}
+
+.bloqueprimero {
+    background: bisque;
+    display: flex;
+    justify-content: center;
+    
+}
+
+a.btn.btn-success.primero {
+    flex: 1;
+}
+.pruebascroll {
+    height: 259px;
+    overflow-y: scroll;
+    width: 46%;
+    border-left: 2px solid black;
+}
+
+.cajaorden {
+    flex:1;
+}
+
+.logopedidos {
+    flex: 1;
+    width: 13%;
+    height: 91px;
+}
+
+.tituloprincipal {
+    color: azure;
+    text-shadow: 1%;
+    font-family: cursive;
+padding-top: 2%;
+flex: 6;
+
+}
+
+
+.btn.btn-success.logout {
+    flex: 1;
+    margin-right: 4%;
+}
+
+.cajadebotones {
+    padding-top: 2%;
+    margin-bottom: 2%;
+    display: flex;
+}
+
+.pizzatop2 {
+    width: 16%;
+    height: 92px;
+}
